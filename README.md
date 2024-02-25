@@ -20,10 +20,10 @@ The project involved the Analysis of several datasets to see whether we can help
 The repository contains 
 
 (i) The `README.md` file, \
-(ii) The `studentPythonNotebook.ipynb`,
-(iii) The `PowerPointPresentaion.pdf`,
-(iv) The Presentation `Video`,
-(v) Supporting `datasets` for inspection (see `zippedData`),
+(ii) The `studentPythonNotebook.ipynb`, \
+(iii) The `PowerPointPresentaion.pdf`, \
+(iv) The Presentation `Video`, \
+(v) Supporting `datasets` for inspection (see `zippedData`), \
 (vi) The `finalDataframe` composed after EDA and DataCleaning.
 
 
