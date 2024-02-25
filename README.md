@@ -1,10 +1,10 @@
 # NAME: Waweru Brian
-# Student Number: DSF-PT 06 
+# Student Number: DSF-PT 06 \\
 
-# Phase 1 Project
+# Phase 1 Project \\
 
 # Repository Name: dsc-
-# Repository Address: 
+# Repository Address: https://github.com/rurigi-waweru/dsc-waweru-phase-one-project \\
 
 # Repository Purpose: To house the individual components for the `Phase One Project` for easy of retrieval and inspection.
 
