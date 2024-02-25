@@ -19,7 +19,7 @@ The project involved the Analysis of several datasets to see whether we can help
 # Content
 The repository contains 
 
-(i) The `README.md` file,
+(i) The `README.md` file, \
 (ii) The `studentPythonNotebook.ipynb`,
 (iii) The `PowerPointPresentaion.pdf`,
 (iv) The Presentation `Video`,
