@@ -1,12 +1,12 @@
 # NAME: Waweru Brian
-# Student Number: DSF-PT 06 \
+# Student Number: DSF-PT 06 
 
 
-# Phase 1 Project \
+# Phase 1 Project 
 
 
 # Repository Name: dsc-waweru-phase-one-project
-# Repository Address: https://github.com/rurigi-waweru/dsc-waweru-phase-one-project \
+# Repository Address: https://github.com/rurigi-waweru/dsc-waweru-phase-one-project 
 
 
 # Repository Purpose: To house the individual components for the `Phase One Project` for easy of retrieval and inspection.
@@ -17,14 +17,14 @@ The project involved the Analysis of several datasets to see whether we can help
 
 
 # Content
-The repository contains \
+The repository contains 
 
-(i) The README.md file
-(ii) The studentPythonNotebook.ipynb
-(iii) The PowerPointPresentaion.pdf
-(iv) The Presentation Video
-(v) Supporting dataset for inspection
-(vi) The final Dataframe composed after EDA and DataCleaning
+(i) The `README.md` file,
+(ii) The `studentPythonNotebook.ipynb`,
+(iii) The `PowerPointPresentaion.pdf`,
+(iv) The Presentation `Video`,
+(v) Supporting `datasets` for inspection (see `zippedData`),
+(vi) The `finalDataframe` composed after EDA and DataCleaning.
 
-\
+
 # Thank you!
